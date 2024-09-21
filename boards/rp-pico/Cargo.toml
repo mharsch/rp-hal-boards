@@ -35,6 +35,7 @@ pio-proc.workspace = true
 rp2040-hal = { workspace = true, features = [ "defmt" ] }
 smart-leds.workspace = true
 ssd1306.workspace = true
+mcp4725.workspace = true
 usbd-hid.workspace = true
 usbd-serial.workspace = true
 ws2812-pio.workspace = true
